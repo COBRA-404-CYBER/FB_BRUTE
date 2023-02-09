@@ -4,7 +4,7 @@
 
 <h1 align="center"> BRUTE FORCE</h1>
 
-<a href="#"><img title="COBRA-404-CYBER" src="/cobra-404/logo.jpg"></a>
+<a href="#"><img title="COBRA-404-CYBER" src="logo.jpg"></a>
 
 <h2 align="center"> AUTHOR : FARHAN KHAN</h2>
 
