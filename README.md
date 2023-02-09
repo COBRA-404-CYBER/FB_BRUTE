@@ -28,10 +28,10 @@ pkg install git
 
 pip install futures
 
-git clone 
+git clone https://github.com/COBRA-404-CYBER/FB_BRUTE
 
-cd Luxury
+cd FB_BRUTE
 
-python 
+python fb_brute.py
 
 ```
