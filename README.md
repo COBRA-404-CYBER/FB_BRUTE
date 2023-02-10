@@ -2,7 +2,7 @@
 
 <a href="#"><img title="COBRA-404-CYBER" src="https://k.top4top.io/p_2596pji1e0.jpg"></a>
 
-<a href="#"><img title="COBRA-404-CYBER" src="https://img.shields.io/badge/AUTHOR-FARHAN%20KHAN-red"></a>
+<a href="#"><img title="COBRA-404-CYBER"    src="https://img.shields.io/badge/AUTHOR-FARHAN%20KHAN-red"></a>
 
 <h1 align="center"> BRUTE FORCE</h1>
 
@@ -42,7 +42,6 @@ python fb_brute.py
 
 ## Features :
 #### [+] No Login Required !
-#### [+] All Bangladeshi Operators are Available !
 #### [+] Add speed manually !
 #### [+] Easy for Beginners !
 
