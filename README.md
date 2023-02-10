@@ -1,5 +1,5 @@
 #  COBRA 404 CYBER
-[![Facebook](https://img.shields.io/badge/Facebook-FARHAN KHAN-blue?style=flat-square&logo=facebook)](https://www.facebook.com/virtua.jhonny.sins?mibextid=ZbWKwL)
+[https://img.shields.io/badge/Facebook-FARHAN KHAN-blue?style=flat-square&logo=facebook](https://www.facebook.com/virtua.jhonny.sins?mibextid=ZbWKwL)
 <a href="#"><img title="COBRA-404-CYBER" src="https://k.top4top.io/p_2596pji1e0.jpg"></a>
 
 <h1 align="center"> BRUTE FORCE</h1>
