@@ -35,3 +35,7 @@ cd FB_BRUTE
 python fb_brute.py
 
 ```
+
+
+[![Facebook](https://img.shields.io/badge/Facebook-Farhan Khan-blue?style=flat-square&logo=facebook)](https://www.facebook.com/virtua.jhonny.sins?mibextid=ZbWKwL)</br>
+[CODED BY FARHAN KHAN]
